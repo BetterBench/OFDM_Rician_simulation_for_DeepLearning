@@ -73,7 +73,5 @@ add(frameStore, frame, perFrameLabel);%modulationTypes(modType));
 
 
 ## ## 6 源码下载
+https://github.com/823316627bandeng/OFDM_Rician_simulation_for_DeepLearning
 
-
-
-# 
