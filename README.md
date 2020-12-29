@@ -68,7 +68,7 @@ add(frameStore, frame, perFrameLabel);%modulationTypes(modType));
 
 自定义发送帧的数量：修改第五行第二个参数
 
-自定义信噪比：修改第五航，第一个参数
+自定义信噪比：修改第五行，第一个参数
 
 
 
