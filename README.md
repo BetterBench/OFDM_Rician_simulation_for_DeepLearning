@@ -1,8 +1,14 @@
 # 莱斯信道下的OFDM仿真，进行发送数据帧的存储，存储为深度学习中训练模型的训练集、测试集、验证集
 
 ## 1 OFDM参数
+该目录下有两种调制方式的发送机QPSK和BPSK
 
-调制方式QPSK
+-- BPSK_OFDM_rician_OneDimension.m 是BPSK的调制方式
+
+-- OFDM_rician_OneDimension.m 是QPSK的调制方式
+
+根据需求，运行程序即可
+
 子载波数量256
 一个OFDM有2个符号
 循环前缀子载波的1/4，为64
